@@ -4,14 +4,15 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: rgb(163, 200, 231)
 }
 
 .container{
     width: 250px;
     height: 400px;
     margin: 100px auto 20px;
-    background-color: white;
-    box-shadow: 0px 0px 15px hsl(212, 45%, 89%);
+    background-color: rgb(248, 248, 248);
+    box-shadow: 0px 0px 20px 2px hsla(200, 4%, 29%, 0.25);
     border-radius: 15px;
 }
 
